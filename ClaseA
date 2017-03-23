@@ -1,0 +1,8 @@
+public ClaseA{
+private  double x;
+private String y
+public ClaseA(){
+ x = 0.0;
+ y ="prueba";
+}
+}
